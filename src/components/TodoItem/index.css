@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.listContainer {
+  list-style-type: none;
+}
+
+.listDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: auto;
+}
+
+.button{
+  background-color: #ffffff;
+  border: solid 1px #ff0b37;
+  color: #ff0b37;
+  height: 40px;
+  width: 100px;
+  border-radius: 4px;
+}
